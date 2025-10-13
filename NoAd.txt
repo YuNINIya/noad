@@ -1,2 +1,3 @@
 !快手广告
 ||ks-adaptive.pull.yximgs.com^
+||p66-ad.adkwai.com^

@@ -20,6 +20,7 @@
 ||api-access.pangolin-sdk-toutiao3.com^
 ||api-access.pangolin-sdk-toutiao4.com^
 ||api-access.pangolin-sdk-toutiao5.com^
+||api-access.pangolin-sdk-toutiao-b.com^
 ||tnc0-aliec2.zijieapi.com^
 ||tnc3-bjlgy.zijieapi.com^
 ##京东广告

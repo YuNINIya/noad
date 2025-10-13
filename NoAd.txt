@@ -1,4 +1,2 @@
-!vivo广告
-||dovivogu.com^
-||load.t.futbolenvivo.co^
-||gunuvivo.com^
+!快手广告
+||ks-adaptive.pull.yximgs.com^

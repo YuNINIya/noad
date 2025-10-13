@@ -44,6 +44,10 @@
 ##谷歌广告
 ||ads.google.cn^
 ||adsense.google.cn^
-##友盟广告
+##友盟(阿里系)广告
 ||adsmind.ugdtimg.com^
 ||audid.umeng.com^
+||umengacs.m.taobao.com^
+##中国联通10010广告
+||m1.ad.10010.com^
+||smartad.10010.com^

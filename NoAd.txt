@@ -43,6 +43,21 @@
 ||toblog.ctobsnssdk.com^
 ||lf3-ad-union-sdk.pglstatp-toutiao.com^
 ||lf6-ad-union-sdk.pglstatp-toutiao.com^
+||reportlog.dftoutiao.com^
+||sh996.dftoutiao.com^
+||shzzzz.dftoutiao.com^
+||2345api.dftoutiao.com^
+||2345apicode.dftoutiao.com^
+||actlog.dftoutiao.com^
+||dspimg.dftoutiao.com^
+||imgsreview.dftoutiao.com^
+||newswifiapi.dftoutiao.com^
+||pageshow.dftoutiao.com^
+||pclog.dftoutiao.com^
+||pcminitj.dftoutiao.com^
+||pcsoftwords.dftoutiao.com^
+||position.dftoutiao.com^
+||unionstatis.dftoutiao.com^
 ##京东广告
 ||addata.jd.com^
 

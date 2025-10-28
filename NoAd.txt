@@ -52,6 +52,8 @@
 ||qzs.gdtimg.com^
 ||v3.gdt.qq.com^
 ||c3.gdt.qq.com^
+||v2mi.gdt.qq.com^
+||rpt.gdt.qq.com^
 ##vivo广告
 ||ads-marketing-vivofs.vivo.com.cn^
 ||adsdk.vivo.com.cn^
@@ -67,6 +69,10 @@
 ##中国联通10010广告
 ||m1.ad.10010.com^
 ||smartad.10010.com^
+||enrichgw.10010.com^
+||ad.10010.com^
 ##其他广告
 ||adx-bj-req.anythinktech.com^
 ||mssdk.volces.com^
+||adx-bj.anythinktech.com^
+||et.tanx.com^

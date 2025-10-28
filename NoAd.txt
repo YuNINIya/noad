@@ -23,6 +23,12 @@
 ||api-access.pangolin-sdk-toutiao-b.com^
 ||tnc0-aliec2.zijieapi.com^
 ||tnc3-bjlgy.zijieapi.com^
+||log-api.pangolin-sdk-toutiao.com^
+||tnc3-alisc1.zijieapi.com^
+||gromore.pangolin-sdk-toutiao.com^
+||abtest-ch.snssdk.com^
+||applog.zijieapi.com^
+||log.zijieapi.com^
 ##京东广告
 ||addata.jd.com^
 ##腾讯系广告
@@ -38,6 +44,12 @@
 ||sdk.e.qq.com^
 ||adsfile.qq.com^
 ||adslvfile.qq.com^
+||v2.gdt.qq.com^
+||win.gdt.qq.com^
+||canvas-cdn.gdt.qq.com^
+||mi.gdt.qq.com^
+||qzs.gdtimg.com^
+||v3.gdt.qq.com^
 ##vivo广告
 ||ads-marketing-vivofs.vivo.com.cn^
 ||adsdk.vivo.com.cn^
@@ -49,6 +61,10 @@
 ||adsmind.ugdtimg.com^
 ||audid.umeng.com^
 ||umengacs.m.taobao.com^
+||pgdt.ugdtimg.com^
 ##中国联通10010广告
 ||m1.ad.10010.com^
 ||smartad.10010.com^
+##其他广告
+||adx-bj-req.anythinktech.com^
+||mssdk.volces.com^

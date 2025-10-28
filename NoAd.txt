@@ -29,6 +29,7 @@
 ||abtest-ch.snssdk.com^
 ||applog.zijieapi.com^
 ||log.zijieapi.com^
+||tnc3-aliec2.zijieapi.com^
 ##京东广告
 ||addata.jd.com^
 ##腾讯系广告
@@ -50,6 +51,7 @@
 ||mi.gdt.qq.com^
 ||qzs.gdtimg.com^
 ||v3.gdt.qq.com^
+||c3.gdt.qq.com^
 ##vivo广告
 ||ads-marketing-vivofs.vivo.com.cn^
 ||adsdk.vivo.com.cn^

@@ -36,6 +36,9 @@
 ||tnc3-aliec1.zijieapi.com^
 ||tnc3-aliec2.zijieapi.com^
 ||gecko.snssdk.com^
+||dm.toutiao.com^
+||mssdk-bu.bytedance.com^
+||toblog.ctobsnssdk.com^
 ##京东广告
 ||addata.jd.com^
 ##腾讯系广告
@@ -63,6 +66,7 @@
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
+||guid.tpns.tencent.com^
 ##vivo广告
 ||ads-marketing-vivofs.vivo.com.cn^
 ||adsdk.vivo.com.cn^
@@ -79,6 +83,7 @@
 ||cnlogs.umengcloud.com^
 ||resolve.umeng.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
+||errnewlog.umeng.com^
 ##中国联通10010广告
 ||m1.ad.10010.com^
 ||smartad.10010.com^
@@ -91,3 +96,4 @@
 ||et.tanx.com^
 ||adsdkapi.dxys.pro^
 ||datk.anythinktech.com^
+||apmplus.volces.com^
